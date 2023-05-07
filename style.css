@@ -1,0 +1,29 @@
+body{
+  background-color: rgb(145, 209, 82);
+}
+header .page-grazy {
+  display: flex;
+  height: 100px;
+  min-width: 100px;
+  align-items: center;
+  color: aquamarine;
+  text-shadow: blue 0 0 0.2em;
+}
+header,.page-grazy .titulo{
+  font: bold calc(1en +2 *(100vw -120px) / 100) 'Dancing Script', cursive,);
+  margin: 2%;
+
+}
+main{
+  font: 1rem 'Fira sans', sans-serif;
+}
+img{
+  width: 150px;
+}
+iframe a{
+  width: 100px;
+}
+p{
+ color: darkblue;
+ font-size: center;
+}
